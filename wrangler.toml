@@ -1,0 +1,7 @@
+name = "quantpulse"
+compatibility_date = "2026-10-10"
+pages_build_output_dir = "./dist"
+
+# Set secrets using:
+# npx wrangler pages secret put ALPHA_VANTAGE_API_KEY
+# npx wrangler pages secret put GEMINI_API_KEY
